@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-farmer",
+  "version": "0.0.0",
+  "description": "dirty farmer",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.3.3",
+    "vitest": "^1.6.0"
+  }
+}

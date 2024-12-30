@@ -4,7 +4,8 @@
   "description": "dirty farmer",
   "scripts": {
     "test": "vitest",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "go:test": "go test ./..."
   },
   "author": "",
   "license": "MIT",
